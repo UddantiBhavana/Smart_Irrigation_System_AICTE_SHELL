@@ -1,4 +1,4 @@
-# 💧 Smart Irrigation System – AICTE-SHELL Internship (Cycle 2)
+# 💧 Smart Irrigation System
 
 **AICTE Internship – Cycle 2 | July 2025**
 
